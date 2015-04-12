@@ -18,3 +18,5 @@ dist
 activator*
 /bin/
 .cache
+
+project/play-fork-run.sbt
